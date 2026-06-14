@@ -14,12 +14,24 @@ This repository contains the Machine Learning assignment based on Netflix User A
 - K-Nearest Neighbors Classification
 - Linear Regression
 
+## Dataset Description
+
+| Column | Description |
+|--------|-------------|
+| UserID | Unique user identifier |
+| Age | User age |
+| Gender | Male / Female |
+| SubscriptionType | Basic / Premium / VIP |
+| WatchHoursPerWeek | Hours watched per week |
+| DevicesUsed | Number of devices used |
+| FavoriteGenre | Action, Comedy, Drama, Sci-Fi, etc. |
+| AdClicks | Number of advertisement clicks |
+| MonthlySpend | Monthly spending (₹) |
+| SubscriptionRenewed | Yes / No |
+
 ## Files
 - Dataset 2.csv
 - Netflix_User_Analytics.ipynb
 
-##Author
-Hrinishka
 ## Author
-
 Hrinishka
